@@ -1,4 +1,4 @@
-﻿{
+{
 	"FileVersion" : 3,
 	"Version" : 2.0,
 	"FriendlyName" : "Flow",
@@ -35,7 +35,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "StructUtils",
+			"Name": "EngineAssetDefinitions",
 			"Enabled": true
 		}
 	]
